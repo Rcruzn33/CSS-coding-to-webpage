@@ -1,0 +1,80 @@
+.truck1 {
+    height: 600px;
+    float: right;
+}
+.truck2 {
+  height: 600px;
+  float: right;
+}
+body, html {
+    height: 100%;
+    margin: 0;
+  }
+  #htmlh1 {
+    color: gold;
+    font-size: 50px;
+  }
+  .link {
+    color: white;
+    padding-left: 50px;
+    font-size: 30px;
+  }
+  .hov:hover {
+    color: goldenrod;
+  }
+  #htmlp1 {
+    color: gold;
+    font-size: 25px;
+  }
+  .every-even tr:nth-child(even) {
+    background-color: gray;
+  }
+  .every-even li:nth-child(even) {
+    background-color: gray;
+  }
+  #box-model {
+    padding: 20px;
+    border-style: solid;
+    border-width: 3px;
+    margin: 30px;
+    background-color: aquamarine;
+  }
+  table {
+    border-collapse: collapse;
+    width: 50%;
+  }
+  .page1 {
+    /* The image used */
+    background-image: url("https://thumbs.dreamstime.com/b/world-logistics-background-transportation-there-map-logistic-network-distribution-industrial-container-228767362.jpg");
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .page2 {
+    /* The image used */
+    background-image: url("http://www.webdesignhot.com/wp-content/uploads/2016/01/Abstract-Background-Blue-Design-Vector-Illustration.jpg");
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .page3 {
+    /* The image used */
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/back_pic/04/01/71/7858020a3b8673e.jpg");
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
